@@ -1,0 +1,33 @@
+{
+  "title": "Terminology and Scope (Axial Physiology Lab Working Note APL-001)",
+  "description": "Foundation-layer working note of the Axial Physiology Lab. Sets out the mechanobiological basis for how the axial, load-bearing tissues respond to physical and mechanical stimuli — the shared principle of mechanotransduction and its expression in the skeletal, neuromuscular, fascial, and lymphatic systems — and the mechanism-versus-efficacy (evidence-distance) boundary the lab keeps explicit throughout. Self-published, versioned, not peer-reviewed.",
+  "upload_type": "publication",
+  "publication_type": "workingpaper",
+  "access_right": "open",
+  "license": "cc-by-4.0",
+  "language": "eng",
+  "version": "4.1",
+  "creators": [
+    {
+      "name": "Kazibudzki, Bartosz",
+      "affiliation": "Axial Physiology Lab",
+      "orcid": "0009-0003-9683-3831"
+    }
+  ],
+  "keywords": [
+    "mechanobiology",
+    "mechanotransduction",
+    "low-intensity vibration",
+    "bone adaptation",
+    "proprioception",
+    "fascia",
+    "hyaluronan",
+    "lymphatic pump",
+    "extracellular matrix",
+    "axial physiology"
+  ],
+  "communities": [
+    { "identifier": "axial-physiology-lab" }
+  ],
+  "notes": "Author discloses commercial interest: founder of Longevity Space (develops low-intensity vibration devices, incl. AEVUM). Self-funded; no external research funding."
+}
